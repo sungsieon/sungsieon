@@ -1,4 +1,4 @@
-### 성시언 깃허브 🍀
+<div align=center><h2>성시언 깃허브 🍀</h2></div>
 
 <div align=center><h2>🔥내 스킬🔥</h2></div>
 <div align=center>
